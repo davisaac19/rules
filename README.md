@@ -7,3 +7,6 @@ reglas y descripciones para duo, jalas y desayunos
 
 #reglas del duo
 - duo.md
+
+#reglas de halo
+- halo.md
