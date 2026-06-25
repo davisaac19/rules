@@ -38,7 +38,6 @@ Reglamento oficial para asegurar la disciplina, la mística y la victoria en el 
 ## 🛡️ Notas Adicionales
 * **Cuota<sup style="color: red;">1</sup>:** La cuota actualmente es de **$75.00 MXN**
 * **Período de Modificación<sup style="color: red;">2</sup>**: El período de modificación de estas normas se abrirá a edición/debate cada 4 meses
-* **Asistencia a las Sesiones de Juego <sup style="color: red;">3</sup>:** Para que la asistencia o pase de lista de un miembro cuente deberá estár todo el tiempo conectado al canal de voz y estar participando activamente en las conversaciones. Adicionalmente el tiempo de conexión comenzará a transcurrir desde el momento en el que se conecta al juego. No se contabiliza el tiempo si solo se tiene encendida la consola o PC en la pantalla de inicio u otra cosa que no sea el juego.
-* **Período de Modificación**<sup style="color: red;">2</sup>: El período de modificación de estas normas se abrirá a edición/debate cada 4 meses
+* **Asistencia a las Sesiones de Juego<sup style="color: red;">3</sup>:** Para que la asistencia o pase de lista de un miembro cuente deberá estár todo el tiempo conectado al canal de voz y estar participando activamente en las conversaciones. Adicionalmente el tiempo de conexión comenzará a transcurrir desde el momento en el que se conecta al juego. No se contabiliza el tiempo si solo se tiene encendida la consola o PC en la pantalla de inicio u otra cosa que no sea el juego.
 
 ---
