@@ -9,6 +9,8 @@ Reglamento oficial para asegurar la disciplina, la mística y la victoria en el 
 * **Licencia de Ausencia Limitada:** Debe solicitarse con al menos **48 horas de antelación**. Durante este periodo, la obligación de conexión se reduce a una partida cada 15 días. Incumplir esto resulta en una falta automática.
 * **Fuerza Mayor:** Si ocurre un corte de energía, enviar evidencia gráfica (ej. foto del "break" o luces apagadas) para justificar la ausencia.
 
+**Límite de Licencias:** La Licencia de Ausencia Limitada solo puede solicitarse un máximo de **3 veces por año**.
+
 ## 🚫 Conducta y Lenguaje (Cero Tolerancia)
 * **Altisonancias:** 3 avisos = 1 falta (máximo 1 falta por día).
 * **Protocolo Manchester:** Queda prohibido decir "no mames". Se debe usar "No manchester". 3 avisos = 1 falta (máximo 1 falta por día).
@@ -27,6 +29,10 @@ Reglamento oficial para asegurar la disciplina, la mística y la victoria en el 
 * **Acumulativo:** 3 faltas acumuladas = 1 tanda de pizza obligatoria.
 * **Nota final:** "No se leen lloros". El reglamento es vinculante.
 * **Vacío Legal:** El que encuentre un vacío legal deberá depositar su cuota<sup style="color: red;">1</sup> para que se haga válido al momento/día. Si otro día se intenta aplicar el mismo vacío legal deverá volver a depositar su cuota<sup style="color: red;">1</sup> correspondiente y así sucesivamente. El vacío legal detectado solo podrá ser parchado durante el período de modificación<sup style="color: red;">4</sup>
+
+## 👥 Validez del Reglamento
+
+- **Quórum de 3:** Las reglas de este reglamento (disciplina, conducta, desempeño y campaña) solo son válidas y aplicables en partidas donde estén presentes **los 3 miembros**. Si solo se conectan 2 jugadores, ninguna sanción de este reglamento aplica para esa sesión.
 
 ## 🛡️ Notas Adicionales
 * **Cutoa<sup style="color: red;">1</sup>:** La cuota actualmente es de **$75.00 MXN**

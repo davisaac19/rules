@@ -8,6 +8,8 @@ Para mantener la seriedad, la buena fe y evitar que los "ingeniosos" busquen lag
 3. **Timestamp Requerido:** La foto debe mostrar claramente (ya sea por marca de agua de la cámara o metadatos legibles) la **fecha y hora real** en la que fue tomada. Si la metadata es alterada, no corresponde al día o no es visible, la foto se considera inválida.
 4. **Originalidad y No Repetición:** Queda estrictamente prohibido el uso de imágenes generadas por IA, descargadas de internet o bancos de imágenes. El uso de la misma foto en días seguidos o alternos será sancionado.
 5. **Combo Obligatorio:** El desayuno debe incluir **un alimento y una bebida** (agua, café, jugo, té o refresco). No se aceptará solo comida sin bebida o viceversa.
+6. **Días Aplicables:** El reglamento aplica únicamente de **lunes a viernes**. Sábados y domingos no cuentan, y no se exige evidencia esos días.
+7. **Vacaciones:** Si un participante saldrá de vacaciones, debe **avisar al grupo antes de salir**. Durante su ausencia, el reglamento sigue aplicando normalmente para los **participantes restantes**.
 
 ## 🥣 Criterios de Desayuno Válido
 * **Categoría 1 (Antojitos/Panadería):** Tortas, sándwiches, hamburguesas, quesadillas, empanadas, panuchos, salbutes, bigotes, pan dulce, galletas, etc.
