@@ -17,6 +17,7 @@ Reglamento oficial para asegurar la disciplina, la mística y la victoria en el 
 ## 🎯 Desempeño en Partida Superfiesta
 * **Cuota de Combate:** Se debe cumplir una cuota de **12 muertes (kills) por partida**. Las asistencias no son consideradas.
 * **Penalización por Desempeño:** Por cada 5 partidas (seguidas o alternadas) donde no se alcance la cuota, se contabiliza 1 tanda de pizza. El contador se reinicia al terminar cada día.
+* **Kills:** Las asistencias no cuentan ni se acumulan para contarlos como bajas. Solamente cuentan las bajas que se indiquen en el marcador final de cada uno de los jugadores.
 
 ## 🛸 Reglas de Campaña (Campaign Evolved)
 * **Sincronía Total:** La campaña solo puede avanzar si los **3 miembros** están conectados.
@@ -25,7 +26,11 @@ Reglamento oficial para asegurar la disciplina, la mística y la victoria en el 
 ## 🍕 Sistema de Sanciones
 * **Acumulativo:** 3 faltas acumuladas = 1 tanda de pizza obligatoria.
 * **Nota final:** "No se leen lloros". El reglamento es vinculante.
+* **Vacío Legal:** El que encuentre un vacío legal deberá depositar su cuota<sup style="color: red;">1</sup> para que se haga válido al momento/día. Si otro día se intenta aplicar el mismo vacío legal deverá volver a depositar su cuota<sup style="color: red;">1</sup> correspondiente y así sucesivamente. El vacío legal detectado solo podrá ser parchado durante el período de modificación<sup style="color: red;">4</sup>
+
+## 🛡️ Notas Adicionales
+* **Cutoa<sup style="color: red;">1</sup>:** La cuota actualmente es de **$75.00 MXN**
+* **Período de Modificación**<sup style="color: red;">2</sup>: El período de modificación de estas normas se abrirá a edición/debate cada 4 meses
 
 ---
 *El grupo se reserva el derecho de arbitraje en situaciones no previstas.*
-*Cualquier intento de buscar vacíos legales o tergiversar estas reglas se podría considerar como falta poniéndose a votación del grupo.*
