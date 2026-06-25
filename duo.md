@@ -21,4 +21,4 @@ La falta de constancia o el incumplimiento en el envío se sancionará de la sig
 * **Cutoa<sup style="color: red;">1</sup>:** La cuota actualmente es de **$75.00 MXN**
 * **Transparencia<sup style="color: red;">2</sup>:** Las capturas deben ser auténticas y sin ediciones que oculten días faltantes. Intentar manipular la imagen o aplicar "vacíos legales" para justificar días incompletos será sancionado conforme al reglamento general del grupo.
 * **Auditoría<sup style="color: red;">3</sup>:** Los miembros del grupo tienen derecho a auditar las capturas enviadas. En caso de discrepancias sobre la validez de un día, la mayoría de los integrantes tomará la decisión final.
-* **Período de Modificación**<sup style="color: red;">4</sup>: El período de modificación de estas normas se abrirá a edición/debate cada 4 meses
+* **Período de Modificación<sup style="color: red;">4</sup>**: El período de modificación de estas normas se abrirá a edición/debate cada 4 meses
