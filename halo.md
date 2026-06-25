@@ -30,6 +30,10 @@ Reglamento oficial para asegurar la disciplina, la mística y la victoria en el 
 * **Nota final:** "No se leen lloros". El reglamento es vinculante.
 * **Vacío Legal:** El que encuentre un vacío legal deberá depositar su cuota<sup style="color: red;">1</sup> para que se haga válido al momento/día. Si otro día se intenta aplicar el mismo vacío legal deverá volver a depositar su cuota<sup style="color: red;">1</sup> correspondiente y así sucesivamente. El vacío legal detectado solo podrá ser parchado durante el período de modificación<sup style="color: red;">4</sup>
 
+## 👥 Validez del Reglamento
+
+- **Quórum de 3:** Las reglas de este reglamento (disciplina, conducta, desempeño y campaña) solo son válidas y aplicables en partidas donde estén presentes **los 3 miembros**. Si solo se conectan 2 jugadores, ninguna sanción de este reglamento aplica para esa sesión.
+
 ## 🛡️ Notas Adicionales
 * **Cutoa<sup style="color: red;">1</sup>:** La cuota actualmente es de **$75.00 MXN**
 * **Período de Modificación**<sup style="color: red;">2</sup>: El período de modificación de estas normas se abrirá a edición/debate cada 4 meses
