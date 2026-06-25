@@ -3,7 +3,7 @@
 El objetivo es mantener el compromiso y la constancia. Este reglamento es aplicable a todos los miembros del grupo. La ignorancia de las reglas no exime de la multa.
 
 ## 📅 Reglas de Envío y Constancia
-1. **Evidencia Semanal:** Todos los integrantes deben enviar obligatoriamente una captura de pantalla de su cuenta de Duolingo **todos los miércoles**.
+1. **Evidencia Semanal:** Todos los integrantes deben enviar obligatoriamente una captura de pantalla de su cuenta de Duolingo **todos los miércoles**. La evidencia debe mostrar que el miércoles en curso ya fue completado al momento del envío.
 1. **Salto de Mes:** Cuando sea inicio de mes, al no verse completo el calendario de los días anteriores, deberá enviarse una captura adicional donde se vea la racha del mes pasado.
 1. **Canal Oficial:** La evidencia debe enviarse exclusivamente al grupo de **Signal**.
 1. **Contenido de la Captura:** La evidencia debe mostrar claramente tanto la vista del **calendario** (donde se comprueben los días de actividad) como el **perfil** del usuario.
