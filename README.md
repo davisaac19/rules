@@ -1,7 +1,7 @@
 # Rules
 Reglas y descripciones para duo, jalas y desayunos
 
-_**NOTA: Cualquier norma escrita en cualquiera de los archivos del repositorio deberá pasar por aprobación de pull request.
+_**NOTA: Cualquier norma escrita en cualquiera de los archivos del repositorio deberá pasar por aprobación de pull request y autorizaión por los miembros del grupo.
 Norma que se detecte que no pase por pull request será ignorada por completo**_
 
 ## ⚖️ Arbitraje con IA
