@@ -1,7 +1,8 @@
 # Rules
 Reglas y descripciones para duo, jalas y desayunos
 
-_**NOTA: CUALQUIER NORMA ESCRITA EN CUALQUIERA DE LOS ARCHIVOS DEL REPOSITORIO DEBERÁ POR APROBACIÓN DE PULL REQUEST**_
+_**NOTA: Cualquier norma escrita en cualquiera de los archivos del repositorio deberá por aprobación de pull request.
+Norma que se detecte que no pase por pull request será ignorada por completo**_
 
 ## ⚖️ Arbitraje con IA
 * **Empate sin Resolución:** Si surge un reclamo o disputa sobre la aplicación de una regla y los otros 2 participantes no llegan a un acuerdo (empate 1-1 o desacuerdo persistente), se podrá presentar el contexto completo de este reglamento junto con la situación específica a una IA (ej. Claude) para que actúe como árbitro imparcial y determine si la regla aplica o si el reclamante tiene razón.
