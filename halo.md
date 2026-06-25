@@ -9,6 +9,8 @@ Reglamento oficial para asegurar la disciplina, la mística y la victoria en el 
 * **Licencia de Ausencia Limitada:** Debe solicitarse con al menos **48 horas de antelación**. Durante este periodo, la obligación de conexión se reduce a una partida cada 15 días. Incumplir esto resulta en una falta automática.
 * **Fuerza Mayor:** Si ocurre un corte de energía, enviar evidencia gráfica (ej. foto del "break" o luces apagadas) para justificar la ausencia.
 
+**Límite de Licencias:** La Licencia de Ausencia Limitada solo puede solicitarse un máximo de **3 veces por año**.
+
 ## 🚫 Conducta y Lenguaje (Cero Tolerancia)
 * **Altisonancias:** 3 avisos = 1 falta (máximo 1 falta por día).
 * **Protocolo Manchester:** Queda prohibido decir "no mames". Se debe usar "No manchester". 3 avisos = 1 falta (máximo 1 falta por día).
