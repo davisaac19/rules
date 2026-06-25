@@ -13,7 +13,7 @@ El objetivo es mantener el compromiso y la constancia. Este reglamento es aplica
 ## 💸 Esquema de Multas (Cuenta de Dúo)
 La falta de constancia o el incumplimiento en el envío se sancionará de la siguiente manera:
 
-* **Por día perdido:** Cada día de la semana (lunes a domingo) que no aparezca marcado como "completado" en la captura, se penalizará con con el pago de la cuota<sup style="color: red;">1</sup> correspondiente.
+* **Por día perdido:** Cada día de la semana (lunes a domingo) que no aparezca marcado como "completado" en la captura, se penalizará con el pago de la cuota<sup style="color: red;">1</sup> correspondiente.
 * **Falta de evidencia:** Si llega el miércoles a las 23:59:59 PM y no envías la captura, se aplicará una penalización equivalente al costo de un día perdido (cuota<sup style="color: red;">1</sup>) como sanción por omisión, además de la revisión automática de tu racha.
 * **Pago:** El monto total de la multa deberá ser depositado a la cuenta de Dúo el mismo día miércoles a la hora límite (23:59:59) tras la confirmación de la falta.
 
