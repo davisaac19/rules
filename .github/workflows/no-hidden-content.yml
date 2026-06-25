@@ -1,0 +1,43 @@
+# .github/workflows/no-hidden-content.yml
+name: No Hidden Content
+
+on:
+  pull_request:
+    paths:
+      - '**.md'
+
+jobs:
+  check-hidden:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Detectar contenido sospechoso
+        run: |
+          FAIL=0
+
+          # Comentarios HTML (pueden esconder texto que no se renderiza)
+          if grep -rnP '<!--.*-->' --include='*.md' .; then
+            echo "::error::Se encontraron comentarios HTML ocultos"
+            FAIL=1
+          fi
+
+          # Colores casi invisibles (blanco, gris muy claro, o igual a fondos comunes)
+          if grep -rnPi 'color:\s*#?(fff(fff)?|fefefe|f0f0f0|white)\b' --include='*.md' .; then
+            echo "::error::Se encontró texto con color casi invisible"
+            FAIL=1
+          fi
+
+          # font-size diminuto (texto "oculto" por tamaño)
+          if grep -rnPi 'font-size:\s*[0-3]px' --include='*.md' .; then
+            echo "::error::Se encontró texto con tamaño de fuente sospechosamente pequeño"
+            FAIL=1
+          fi
+
+          # display:none o visibility:hidden
+          if grep -rnPi '(display:\s*none|visibility:\s*hidden)' --include='*.md' .; then
+            echo "::error::Se encontró contenido con display:none o visibility:hidden"
+            FAIL=1
+          fi
+
+          exit $FAIL
