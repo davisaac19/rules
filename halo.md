@@ -15,6 +15,7 @@ Reglamento oficial para asegurar la disciplina, la mística y la victoria en el 
 * **Altisonancias:** 3 avisos = 1 falta (máximo 1 falta por día).
 * **Protocolo Manchester:** Queda prohibido decir "no mames". Se debe usar "No manchester". 3 avisos = 1 falta (máximo 1 falta por día).
 * **Campaign Evolved (Misión "Las Fauses"):** En esta misión específica, las palabras altisonantes cuentan como **doble sanción**.
+* **Lecciones de Duo:** Queda estrictamente prohibido hacer lecciones de Duolingo durante las sesiones de juego. Al que se le sorprenda realizando estos actos deberá pagar su cuota<sup style="color: red;">1</sup> correspondiente. El pago de la cuota<sup style="color: red;">1</sup> aplica tantas veces como sea sorprendio, es decir, si en una sesión de juego a algún integrante se le sorprende 2 veces haciendo su lección deberá pagar 2 veces.
 
 ## 🎯 Desempeño en Partida Superfiesta
 * **Cuota de Combate:** Se debe cumplir una cuota de **12 muertes (kills) por partida**. Las asistencias no son consideradas.
